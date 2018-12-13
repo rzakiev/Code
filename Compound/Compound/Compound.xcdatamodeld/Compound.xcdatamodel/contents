@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14460.32" systemVersion="18B75" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="LocalPortfolio" representedClassName="LocalPortfolio" syncable="YES" codeGenerationType="class">
+        <attribute name="portfolioJSON" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="LocalPortfolio" positionX="-54" positionY="-9" width="128" height="60"/>
+    </elements>
+</model>
