@@ -4,7 +4,7 @@
 
 Compound is a Swift-based iOS app that was originally developed for a small group of private investors from St.Petersburg. The app catalogues a list of publicly traded Russian companies along with their financial indicators and market valuations. The main objective of the app is to provide a clear overview of a particular company’s financial health by displaying its revenue, profit,  and debt load figures, among others.
 
-The app is built using the MVC model, with a total of four Table View Controllers displaying data and one root TabBar Controller providing the navigation between two main table view controllers.
+The app is built using the MVC model, with a total of four Table View Controllers displaying data and one root TabBar Controller providing the navigation between the two main table view controllers.
 
 ### Companies’ Financial Figures
 
