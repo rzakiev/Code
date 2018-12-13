@@ -28,6 +28,6 @@ The third section of the table contains production figures for the selected comp
 
 ### Portfolio
 
-The second main table view controller (PortfolioTableViewController) displays the user’s portfolio. It’s empty by default; however, the user can manually add a new holding by tapping on the **+** button in the upper right-hand corner. This will modally present the NewPositionViewController. From there, the user can specify the company of the recently purchased stake, the number of shares, and the purchase price. Tapping **Done** will save the holding and add it to portfolio. The portfolio view also displays the market price of all the holdings in the portfolio and therefore enables investors to track their performance relative to the market.
+The second main table view controller (PortfolioTableViewController) displays the user’s portfolio. It’s empty by default; however, the user can manually add a new holding by tapping on the **+** button in the upper right-hand corner. This will modally present the NewPositionViewController. From there, the user can specify the company of the recently purchased stake, the number of shares, and the purchase price. Tapping **Done** will save the holding and add it to the portfolio. The portfolio view also displays the market price of all the holdings in the portfolio and therefore enables investors to track their performance relative to the market.
 
 Please note that the app mandates biometric authentication on launch and cannot be disabled.
