@@ -20,7 +20,7 @@ The second section contains the following multipliers:
 
 * Market Capitalization (calculated asynchronously)
 * Earnings divided by market capitalization
-* The dividend yield (calculated asynchronously))
+* The dividend yield (calculated asynchronously)
 
 The third section of the table contains production figures for the selected company (if available).
 
