@@ -10,17 +10,17 @@ The app is built using the MVC model, with a total of four Table View Controller
 
 The first main table view controller (StockListTableViewController) displays the list of examined companies. Tapping on a particular company will transition the view to the StockViewTableViewController that outlines a detailed overview of the company’s financial and production figures over the last five years. The first section contains the following financial data:
 
-Revenue growth
-Operating Income growth
-Net Profit Growth
-Dividend Growth
-Leverage 
+* Revenue growth
+* Operating Income growth
+* Net Profit Growth
+* Dividend Growth
+* Leverage 
 
 The second section contains the following multipliers:
 
-Market Capitalization (calculated asynchronously)
-Earnings divided by market capitalization
-The dividend yield (calculated asynchronously))
+* Market Capitalization (calculated asynchronously)
+* Earnings divided by market capitalization
+* The dividend yield (calculated asynchronously))
 
 The third section of the table contains production figures for the selected company (if available).
 
